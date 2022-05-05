@@ -2,7 +2,7 @@
 
 [LinkedIN](https://www.linkedin.com/in/adelhasan/) [Portfolio](https://adelhasan.github.io/portfoliov2/)
 
-Hello and welcome to my github!
+Thanks for checking out my GitHub!
 
 I'm a software engineer from Houston and a graduate of General Assembly's Software Engineering Immersive Program, where I learned full-stack web development, focused primarily on JavaScript libraries for building and styling responsive front ends, and non-relational backends built with Mongoose. 
 
