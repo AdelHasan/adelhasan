@@ -1,5 +1,4 @@
-# Adel Hasan
-## Full-Stack Web Developer
+# Adel Hasan : Full-Stack Web Developer
 
 [LinkedIN](https://www.linkedin.com/in/adelhasan/) [Portfolio](https://adelhasan.github.io/portfoliov2/)
 
